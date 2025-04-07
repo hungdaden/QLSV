@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\QLSV\\QLSV\\QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D369346-AED9-421D-A68F-7B8AE9451B67}|QuanLySinhVien_GUI\\QuanLySinhVien_GUI.csproj|c:\\users\\admin\\downloads\\qlsv\\qlsv\\qlsv\\quanlysinhvien_gui\\frmquanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D369346-AED9-421D-A68F-7B8AE9451B67}|QuanLySinhVien_GUI\\QuanLySinhVien_GUI.csproj|solutionrelative:quanlysinhvien_gui\\frmquanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AD33F2-B812-4013-8FDA-0CBFB5DED544}|QuanLySinhVien_BLL\\QuanLySinhVien_BLL.csproj|c:\\users\\admin\\downloads\\qlsv\\qlsv\\qlsv\\quanlysinhvien_bll\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AD33F2-B812-4013-8FDA-0CBFB5DED544}|QuanLySinhVien_BLL\\QuanLySinhVien_BLL.csproj|solutionrelative:quanlysinhvien_bll\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QLSV\\QLSV\\QLSV\\QuanLySinhVien_BLL\\Diem.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien_BLL\\Diem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QLSV\\QLSV\\QLSV\\QuanLySinhVien_BLL\\Diem.cs",
+              "RelativeToolTip": "QuanLySinhVien_BLL\\Diem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:25:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmquanlydiem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QLSV\\QLSV\\QLSV\\QuanLySinhVien_GUI\\frmquanlydiem.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien_GUI\\frmquanlydiem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QLSV\\QLSV\\QLSV\\QuanLySinhVien_GUI\\frmquanlydiem.cs",
+              "RelativeToolTip": "QuanLySinhVien_GUI\\frmquanlydiem.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAswHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:17:27.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

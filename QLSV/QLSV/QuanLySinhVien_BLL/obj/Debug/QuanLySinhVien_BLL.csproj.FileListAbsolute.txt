@@ -1,0 +1,33 @@
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.dll
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.pdb
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\obj\Debug\QuanLySi.E867A3C9.Up2Date
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+C:\Users\Admin\Downloads\QLSV\QLSV\QLSV\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
